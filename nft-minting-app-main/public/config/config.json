@@ -1,6 +1,6 @@
 {
-  "CONTRACT_ADDRESS": "0x77958f0eaaf1d1479c26e56f568c9680edd46978",
-  "SCAN_LINK": "https://mumbai.polygonscan.com/tx/0x67723d24413dd105b864879239b2b830c4e518aea164e52ad708870dfeb3e3be",
+  "CONTRACT_ADDRESS": "0x898fc8C0dc551C53c5FefbDfDb7A101028abEc2c",
+  "SCAN_LINK": "https://polygonscan.com/address/0x898fc8c0dc551c53c5fefbdfdb7a101028abec2c",
   "NETWORK": {
     "NAME": "Polygon",
     "SYMBOL": "Matic",
@@ -13,6 +13,6 @@
   "DISPLAY_COST": 2,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opensea",
-  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/the-poopyz-865rlwmnbq",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/thepoopyznft",
   "SHOW_BACKGROUND": true
 }
